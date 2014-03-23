@@ -2,9 +2,9 @@
 
 
 LinkedList::LinkedList(void)
-{
-	pHead = NULL;
-	pTail = NULL;
+{// 생성자
+	pHead = NULL;// pHead를 NULL로 초기화
+	pTail = NULL;// pTail을 NULL로 초기화
 }
 
 
