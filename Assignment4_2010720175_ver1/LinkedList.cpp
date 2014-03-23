@@ -10,7 +10,8 @@ LinkedList::LinkedList(void)
 
 LinkedList::~LinkedList(void)
 {// 소멸자 
-	
+	//없음
+
 }
 
 void LinkedList :: Deallocator()
